@@ -1,0 +1,8 @@
+github link
+
+https://github.com/prinxard/udagram-image-filter
+
+elastic beanstalk deployment (EB_URL)
+
+http://udagram-prince-filter-app-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA101fzZ.img?w=534%26h=280%26m=6%26x=428%26y=108%26s=80%26d=80
+
